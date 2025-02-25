@@ -29,9 +29,15 @@ Welcome to the **SQL Mastery Repository**! 🚀 This repository is designed to h
 - Stored Procedures & Functions
 - Triggers & Events
 - Performance Optimization (Indexing, Query Optimization)
-- NoSQL vs SQL Comparison
-- SQL Security Best Practices
+  
+### 4️⃣ Real-World SQL Projects
+This repository also includes high-quality, real-world SQL projects to help you apply your knowledge in practical scenarios. Some of the projects include:
 
+- E-commerce Sales Analysis – Analyzing customer transactions, product performance, and revenue trends.
+- HR Database Management – Managing employee records, salaries, and promotions using SQL queries.
+- Financial Data Insights – Working with stock market or banking data to generate reports.
+- Customer Segmentation – Using SQL queries to classify customers based on purchasing behavior.
+- Music Store Analysis - Analyzing customer purchasing behavior in a music store database by identifying top employees, best customers, highest-grossing cities, most popular genres per country, and spending patterns using SQL queries with aggregations, joins, CTEs, and window functions.
 
 ## 📚 Resources & References
 
